@@ -8,6 +8,7 @@
   <img src="https://cdn.simpleicons.org/vercel/ffffff" width="22" height="22" alt="Vercel" />
 </p>
 
-**paiva** — faço site pra estúdio e loja.
+**paiva**
+sites pra estúdio e loja.
 
-[paiva-portfolio](https://github.com/paivaxqz/paiva-portfolio)
+[paiva.lat](https://www.paiva.lat)
