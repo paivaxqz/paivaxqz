@@ -1,59 +1,13 @@
-# 👋 Olá, eu sou o Sosa
+<p>
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" height="22" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" alt="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="22" height="22" alt="Vercel" />
+</p>
 
-Desenvolvedor focado em **Python**, **automação** e **bots avançados para Discord**.  
-Crio sistemas rápidos, minimalistas e funcionais — sempre priorizando performance e UX.
+**paiva** — faço site pra estúdio e loja.
 
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.8+-000?style=for-the-badge&logo=python&logoColor=white)]()
-[![Discord.py](https://img.shields.io/badge/Discord.py-2.3+-000?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)]()
-
-</div>
-
----
-
-## 🚀 Sobre mim
-- 🤖 Desenvolvimento de bots para Discord  
-- 🐍 Python para automação e backend  
-- ⚡ Foco em performance, estrutura limpa e escalabilidade  
-- 🎨 Design minimalista aplicado a UIs e painéis  
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-- Python · Discord.py · AsyncIO  
-- Git/GitHub  
-- VS Code  
-- JSON · dotenv  
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=paivaxqz&show_icons=true&theme=dark&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paivaxqz&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🔗 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paivaxqz)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1433973291063840809)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ _Se algum projeto te ajudou, deixe uma estrela!_
-
-</div>
+[paiva-portfolio](https://github.com/paivaxqz/paiva-portfolio)
