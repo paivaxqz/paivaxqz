@@ -1,14 +1,11 @@
-<p>
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" height="22" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="22" height="22" alt="React" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="22" height="22" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="22" height="22" alt="Vercel" />
-</p>
+<div align="center">
 
-**paiva**
-sites pra estúdio e loja.
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" alt="stack" />
 
-[paiva.lat](https://www.paiva.lat)
+# paiva
+
+Frontend. Site de estúdio e loja — rápido, escuro, Zap no lugar certo.
+
+[paiva.lat](https://www.paiva.lat) · [código](https://github.com/paivaxqz/paiva-portfolio)
+
+</div>
